@@ -60,8 +60,6 @@ grpcio==1.59.3
 grpcio-status==1.59.3
 h11==0.14.0
 huggingface-hub==0.19.4
-# Editable install with no version control (IA-Traill==0.0.1)
--e /home/utilisateur/code/Nicogeste/API
 idna==2.10
 imageio==2.33.0
 importlib-metadata==6.8.0
