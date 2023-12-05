@@ -1,4 +1,4 @@
-FROM python:3.9.16
+FROM python:3.10.6-bookworm
 
 # Copy and install requirements
 COPY requirements.txt requirements.txt
